@@ -48,3 +48,6 @@ The test script is executed, parameter encoding is based on the data types extra
 
 If the script makes it to the end, the test has passed.
 
+## Notes
+
+The code has been working - however since it was developed, I changed my dev machine to use solc-select which means that some of the compilation process needs to be re-worked (it also plays hell with my use of ABIGEN)
